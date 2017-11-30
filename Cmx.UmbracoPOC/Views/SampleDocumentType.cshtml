@@ -1,0 +1,7 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage<ContentModels.SampleDocumentType>
+@using ContentModels = Umbraco.Web.PublishedContentModels;
+@{
+	Layout = null;
+}
+<pre>@Model.Content.DocumentTypeName</pre>
+<pre>@Model.Content.DocumentDate</pre>

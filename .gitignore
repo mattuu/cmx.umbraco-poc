@@ -1,0 +1,8 @@
+*.generated.cs
+Cmx.UmbracoPOC/bin
+Cmx.UmbracoPOC/App_Data/Logs
+Cmx.UmbracoPOC/App_Data/Models
+Cmx.UmbracoPOC/App_Data/TEMP
+Cmx.UmbracoPOC/App_Data/cache
+Cmx.UmbracoPOC/App_Data/preview
+

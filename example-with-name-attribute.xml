@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<accomInformation xmlns="http://jvh/schemas/ws/api/3.0/feeds/accomInformation" xmlns:ns2="http://jvh/schemas/ws/api/3.0/common">
+	<accommodation accomId="12345">
+		<arrivalDeparture>
+			<arrivalDepartureInfo name="Alarm details / code" changed="2017-01-01 00:00:00">Test Data</arrivalDepartureInfo>
+			<arrivalDepartureInfo name="Arrival key details" changed="2017-01-01 00:00:00">Test Data</arrivalDepartureInfo>
+			<arrivalDepartureInfo name="Departure key details" changed="2017-01-01 00:00:00">Test Data</arrivalDepartureInfo>
+			<arrivalDepartureInfo name="Extra info for travel documents" changed="2017-01-01 00:00:00">Test Data</arrivalDepartureInfo>
+			<arrivalDepartureInfo name="Gate code / instructions" changed="2017-01-01 00:00:00">Test Data</arrivalDepartureInfo>
+		</arrivalDeparture>
+		<directions>
+			<villaDirections airport="AAA" changed="2017-01-01 00:00:00">Test Data</villaDirections>
+			<villaDirections airport="BBB" changed="2017-01-01 00:00:00">Test Data</villaDirections>
+			<villaDirections airport="CCC" changed="2017-01-01 00:00:00">Test Data</villaDirections>
+			<villaDirections airport="DDD" changed="2017-01-01 00:00:00">Test Data</villaDirections>
+			<villaDirections airport="EEE" changed="2017-01-01 00:00:00">Test Data</villaDirections>
+			<villaDirections airport="FFF" changed="2017-01-01 00:00:00">Test Data</villaDirections>
+		</directions>
+		<villaBook>
+			<villaInfo name="Additional notes" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Air conditioning" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Alarm" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="ATM" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Bakery" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Bank" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="BBQ" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Beach" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Bus stop" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Church" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Coffee machine" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Dishwasher" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Doctor clinic" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Electronic and Games Devices" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Emergency numbers" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Further important information" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Fuse box" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Garden and grounds" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Gate information" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Gym equipment" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Heating" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Hob" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Hospital" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Jacuzzi, hot tub and whirl pool" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Last day" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Lights" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Maid Service" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Markets" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Microwave" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Outdoor furnishings" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Oven" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Parking" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Petrol station" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Pharmacy" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Police station" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Pool" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Pool pumps" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Power and Water cuts" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Restaurants and Bars" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Safe" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Satellite" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Sauna details" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Smoking" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Supermarket" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Taxis" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Tennis court" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Tumble Dryer" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="TV/DVD player" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Washing machine" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Waste disposal (bins)" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Water" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Wi-Fi" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+			<villaInfo name="Windows, doors and shutters" changed="2017-01-01 00:00:00">Test Data</villaInfo>
+		</villaBook>
+		<contacts changed="2017-01-10 00:00:00">
+			<contact type="Rep" name="Mike Bretherick" telephone="0000 000 000000"/>
+			<contact type="Rep" name="Mike Bretherick" telephone="0000 000 000000"/>
+			<contact type="Management Company" name="Mike Bretherick" telephone="0000 000 000000" additionalTelephone="0000 000 000000"/>
+			<contact type="Management Company 24H" name="Mike Bretherick" telephone="0000 000 000000" additionalTelephone="0000 000 000000"/>
+		</contacts>
+	</accommodation>
+</accomInformation>
